@@ -1,2 +1,1 @@
-# ALURAFLIX
-ALURAFLIX: Indicador de vídeos 
+ALURAFLIX
